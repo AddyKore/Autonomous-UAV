@@ -18,4 +18,6 @@ Camera   - Raspi cam v2
 
 An autonomous drone was deployed to capture aerial imagery of a specific land area. The drone carried a camera setup capable of storing geo-location data of each image captured. The collected images were processed to generate an orthomosaic map, a composite image composed of multiple overlapping, geometrically corrected photographs. This map was used to accurately calculate the area of the land under consideration."
 
+Video link - https://www.youtube.com/watch?v=62CnhtzHN9o&ab_channel=SVRInfotech
+
 This repository does not contain any flight controller code.
